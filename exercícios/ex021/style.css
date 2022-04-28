@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Roboto;
+}
+
+.corpo{
+    background-color: #84E1AD;
+}
+.cabeçalho{
+    box-shadow: 0px 0px 10px;
+    background-image: linear-gradient(#84E1AD,#1A5C38);
+    height: 225px;
+}
+.cont-cabeçalho2{
+    color: white;
+}
+.titulo-cabecalho{
+    text-align: center;
+    padding-top: 30px;   
+}
+.parag-cabeçalho{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom:40px;
+    font-size: 18px;
+}
+.link{
+    color: white;
+    text-decoration: dashed;
+    margin: 10px;
+}
+.cont-main{
+    background-color: white;
+    box-shadow: 0px 0px 10px;
+    padding: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: justify;
+}
+.titulo{
+    text-align:left ;
+}
+.robo{
+    width: 600px;
+    margin:auto;
+}

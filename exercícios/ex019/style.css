@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#principal{
+    color:white;
+    background-color:rgb(0, 94, 0);
+}
+.basic{
+    color: rgb(0, 255, 0);
+}
+.intermediario{
+    color: rgb(255, 238, 0);
+}
+.avancado{
+    color: rgb(255, 0, 0);
+}
+.todososp{
+    color: black;
+    font-weight: normal;
+    text-align: justify;
+}
+.primario{
+    font-weight: bold;
+    color: rgb(5, 102, 5)
+}
