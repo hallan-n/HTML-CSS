@@ -58,13 +58,13 @@ section > p{
     padding-top: 20px;
 }
 #img01{
-    background-image: url('../d012/imagens/background001.jpg');
+    background-image: url('../imagens/background001.jpg');
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
 }
 #img02{
-    background-image: url('../d012/imagens/background002.jpg');
+    background-image: url('../imagens/background002.jpg');
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
