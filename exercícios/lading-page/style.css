@@ -84,8 +84,14 @@ hr{
     }
 }
 
-@media(max-width: 450px){
+@media(max-width: 400px){
     header > nav{
-    padding: 10px 0px 0px 0px;
+        padding: 20px 0px 0px 0px;
     }
 }
+@media(max-width: 400px){
+    header > nav > a{
+        font-size: 14px;
+    }
+}
+
