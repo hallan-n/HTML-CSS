@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.container{
+    height: 100vw;
+    width: 100vh;
+    display: grid;
+    grid-template-columns: 10px 10px 10px;
+    grid-template-rows: 10px 10px 10px;
+    gap: 10px;
+    
+    justify-content: center; /*Alinha o container horiontal, da esqueda para direita*/
+    align-content: center; /*Alinha o coteúdo vestical, de cima para baixo*/
+
+}
+.container > div{
+    background-color: blueviolet;
+}

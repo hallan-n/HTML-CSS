@@ -1,0 +1,38 @@
+---------------CONTAINER---------------
+
+display: grid;  -  Prepara o container para receber as propriedades de grid
+grid-template-columns;   -  Vai dizer quantas comulas o grid possui
+grid-template-rows;  -  Vai dizer quantas linhas o grid possui
+grid-gap:;  -  Espaços entre linhas e comulas
+    grid-row-gap:;  -  Espaços entre linhas e comulas
+    grid-column-gap:;  -  Espaços entre linhas e comulas
+grid-template-areas;  -  Delimita as áreas
+
+//E mais 4 propriedades de alinhamento
+
+---------------ITENS---------------
+grid-column  -  Vai dizer onde o item na coluna do container
+    grid-column-start  -  
+    grid-column-end  -  
+grid-row  -  Vai dizer onde o item na linha do container
+    grid-row-start  -  
+    grid-row-end  -  
+grid-area  -  
+
+//E mais 4 propriedades de alinhamento
+---------------ALINHAMENTO---------------
+
+justify-content
+align-content
+justify-items
+align-items
+justify-self
+align-self
+
+//Separar em 2 grupos
+
+1- justify e align
+	justify - Alinha o container horiontal, da esqueda para direita
+	align - Alinha o coteúdo vestical, de cima para baixo
+
+2- content, items e self
